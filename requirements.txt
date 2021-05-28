@@ -1,0 +1,5 @@
+kraken-wsclient-py==0.0.9
+psycopg2-binary==2.8.5
+python-decouple==3.3
+unicorn-binance-websocket-api
+unicorn-fy

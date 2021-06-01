@@ -1,1 +1,1 @@
-# binance_stream_data
+# Crypto Data Collection

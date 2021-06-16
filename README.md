@@ -7,6 +7,7 @@ This code is intended to collect the stream prices of the BTC/USDT and BTC/EUR p
 
 # Setup
 1 - Start with cloning the repository:
+
 `git clone git@github.com:the1des/crypto_data_collection.git `
 
 2- Installed all the requirements:

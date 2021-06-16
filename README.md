@@ -11,18 +11,23 @@ This code is intended to collect the stream prices of the BTC/USDT and BTC/EUR p
 `git clone git@github.com:the1des/crypto_data_collection.git `
 
 2- Installed all the requirements:
+
 `pip install -r requirements.txt`
 
 3- use the SQL queries files and make a database:
 [crypto_data_collection/sql](sql)
 
 4- make a copy of the file ".env.example" and rename it ".env", and then update the following environmental variables:
+
 `DB_HOST=localhost
 DB_USERNAME=postgres
 DB_PASSWORD=YOURPASSWORD
 DB_DATABASE=ohlc`
 
 5- Run the code for Binance:
+
 `python bin/binance.py `
+
 And Kraken:
+
 `python bin/kraken.py `

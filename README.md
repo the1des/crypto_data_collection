@@ -2,10 +2,10 @@
 The repository was prepared for educational purposes by [1DES](https://1des.com). 
 [How to develop a machine learning trading bot: Data Collection](https://1des.com/blog/posts/how-to-develop-machine-learning-trading-bot-data-collection)
 
-#Goal
+# Goal
 This code is intended to collect the stream prices of the BTC/USDT and BTC/EUR pairs on Binance and the BTC/USD and BTC/EUR pairs on Kraken.
 
-#Setup
+# Setup
 1 - Start with cloning the repository:
 `git clone git@github.com:the1des/crypto_data_collection.git `
 
